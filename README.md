@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I used to be a music teacher and still can't keep tempo!
 
-[![{{NAME}}'s github stats](https://github-readme-stats.vercel.app/api?username={{USERNAME}}&theme=dark)](https://github.com/{{USERNAME}}/github-readme-stats)
+[![Stef's github stats](https://github-readme-stats.vercel.app/api?username=StefStar&theme=dark)](https://github.com/StefStar/github-readme-stats)
