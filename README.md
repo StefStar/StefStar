@@ -1,13 +1,12 @@
 ## Hi there 👋
 
 
-I am an SSW Marketing Assistant who's always keen on problem solving and optimising online ads.
+I'm part of the SSW Marketing team  who's always keen on problem solving and optimising online ads.
 
 
 
 - 🔭 I’m currently working on SSW Google Ads & Analytics
 - 🌱 I’m currently learning about the software development space
-- 📫 How to reach me: StefStarcevic@ssw.com.au
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I used to be a music teacher and still can't keep tempo!
 
